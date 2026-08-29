@@ -1,0 +1,10 @@
+body { 
+    font-family: system-ui; 
+    padding: 2rem; 
+    background-color: #000000; 
+    color: #ffffff;
+}
+
+h1 {
+    color: #E85D04;
+}
